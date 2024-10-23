@@ -1,0 +1,1 @@
+echo 'nguoi dung: tieug'
